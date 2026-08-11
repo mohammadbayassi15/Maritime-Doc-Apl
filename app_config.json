@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.1",
   "store_url": "ms-windows-store://pdp/?productid=9NMWN8KZMDXH",
-  "force_update": true,
+  "force_update": false,
   "release_notes_ar": "تحسينات في الأداء وإصلاح بعض الأخطاء العامة.",
   "release_notes_en": "Performance improvements and general bug fixes."
 }
